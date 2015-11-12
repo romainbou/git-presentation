@@ -9,7 +9,7 @@
   • git add : Ajouter les fichiers au suivi
   • git commit : Enregistrer une étape d'avancement
   • git reset : Abandonner des changements non désirés
-                    
-
-
-                                                    Slide 5.4
+  • git push : Envoyer ses commits vers un dépot distant
+                   
+ 
+                                                    Slide 5.5
