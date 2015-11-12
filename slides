@@ -2,14 +2,14 @@
 
 
 
-                        Récap
-                        -----
+                        Démo
+                        ----
 
-  • git clone : Récupérer un dépot distant
-  • git log : Afficher l'historique des commits
-  • git checkout : Revenir à un commit choisi
+  • git status : Afficher l'état courant
 
 
 
 
-                                                    Slide 4
+
+
+                                                    Slide 5.1
