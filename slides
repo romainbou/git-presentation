@@ -2,14 +2,14 @@
 
 
 
-                Pourquoi utiliser Git ?
-                -----------------------
+                        Récap
+                        -----
 
-  • Colaborer
-  • Conserver un historique de son développement
-  • BACKUP!
-
-
+  • git clone : Récupérer un dépot distant
+  • git log : Afficher l'historique des commits
+  • git checkout : Revenir à un commit choisi
 
 
-                                                    Slide 3
+
+
+                                                    Slide 4
