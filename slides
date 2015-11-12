@@ -8,8 +8,8 @@
   • git status : Afficher l'état courant
   • git add : Ajouter les fichiers au suivi
   • git commit : Enregistrer une étape d'avancement
+  • git reset : Abandonner des changements non désirés
+                    
 
 
-
-
-                                                    Slide 5.3
+                                                    Slide 5.4
